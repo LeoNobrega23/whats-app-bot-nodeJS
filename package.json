@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
+  "author": "Leonardo Nóbrega",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^19.4.1"
